@@ -5,7 +5,7 @@ Enter simple information to start, then enter names of Pokemon as they are defea
 Calculator will keep track of EVs, including modifiers such as PokeRus and items.
 Despite the name, able to be used with any generation/PokeDex, given that input .txt file is in alphabetical order, with name and EVs separated by spaces (included are the Sinnoh Dex and National PokeDex, with EVs coinciding with Gen IV)
 
-##Input:
+##Inputs:
 ###Beginning
 - Name
 - Goal EVs
