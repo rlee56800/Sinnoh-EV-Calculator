@@ -1,0 +1,6 @@
+Empoleon 0 0 0 3 0 
+Gabite 0 2 0 0 0 0
+Honchkrow 0 2 0 0 0 0
+Lickilicky 3 0 0 0 0 0
+Luxray 0 3 0 0 0 0
+Rampardos 0 2 0 0 0 0
