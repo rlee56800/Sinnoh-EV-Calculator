@@ -22,7 +22,9 @@ Despite the name, able to be used with any generation/PokeDex, given that input 
 
 ## What are EVs?
 Pokemon have 6 stats: HP (Hit Points (health)), Attack, Defense, Special Attack, Special Defense, and Speed. These stats are calculated based on:
-1. the Pokemon's species: each Pokemon has its own set of base stats
-2. its Nature
-3. its IVs
-4. its EVs
+1. the Pokemon's species: each Pokemon has its own set of base stats. For example:
+    ![comparison of Rampardos vs Lapras's stats](comparison.png "Rampardos vs Lapras Stats")
+    On the left is Rampardos's stats, and on the right is Lapras's.
+3. its Nature
+4. its IVs
+5. its EVs
