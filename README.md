@@ -31,11 +31,19 @@ Pokemon have 6 stats: HP (Hit Points (health)), Attack, Defense, Special Attack,
 
 ## EV-Modifiers
 **PokeRus** - A rare (1/21,845; rarer than shiny), contagious, beneficial 'disease' that causes a Pokemon to gain twice as many EVs as it otherwise should (including those agined from items). PokeRus is "cured" after 1-4 (depending on "strain") days, but can be suspended by placing in a PC. A cured Pokemon can't catch or spread PokeRus, but will continue gaining twice as many EVs.
+
 **Macho Brace** - Item that doubles EVs gained from a battle (stacks with PokeRus), but halves holder's Speed during the battle
+
 **Power Weight** (green) - Item that grants 4 (8 after gen VII) EVs to HP (stacks with PokeRus), but halves holder's Speed during the battle
+
 **Power Bracer** (red) - Item that grants 4 (8 after gen VII) EVs to Attack (stacks with PokeRus), but halves holder's Speed during the battle
+
 **Power Belt** (orange) - Item that grants 4 (8 after gen VII) EVs to Defense (stacks with PokeRus), but halves holder's Speed during the battle
+
 **Power Lens** (pink; vertical) - Item that grants 4 (8 after gen VII) EVs to Special Attack (stacks with PokeRus), but halves holder's Speed during the battle
+
 **Power Band** (yellow) - Item that grants 4 (8 after gen VII) EVs to Special Defense (stacks with PokeRus), but halves holder's Speed during the battle
+
 **Power Anklet** (blue) - Item that grants 4 (8 after gen VII) EVs to Speed (stacks with PokeRus), but halves holder's Speed during the battle
-Note: A Pokemon can only hold 1 item at a time
+
+*Note: A Pokemon can only hold 1 item at a time*
