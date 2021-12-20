@@ -1,6 +1,6 @@
 ##################################################################################
 # Variable definitions and such
-name = 'Snorlaxative' # name of trainee :)
+name = 'Snorlaxative' # name of trainee :) (placeholder)
 goal_EVs = [] # set for user input
 cur_EVs = [] # EVs for defeating Pokemon
 saved_EVs = [] # after implementing save
